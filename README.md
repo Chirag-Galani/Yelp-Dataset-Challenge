@@ -2,10 +2,10 @@
 ILS - Z534 Search Project on Yelp Dataset Challenge
 
 ## Group 4 Team Members:
-* [Chirag Galani](cgalani@iu.edu)
-* [Arun Nekkalapudi](anekkal@iu.edu)
-* [Keerthi Naredla](knaredla@iu.edu)
-* [Janani Muppalla](jmuppall@iu.edu)
+* Chirag Galani: cgalani@iu.edu
+* Arun Nekkalapudi anekkal@iu.edu
+* Keerthi Naredla:knaredla@iu.edu
+* Janani Muppalla: muppall@iu.edu
 
 ## Task 1
 Recommending restaurants to users
